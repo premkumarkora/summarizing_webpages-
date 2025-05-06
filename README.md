@@ -150,4 +150,4 @@ Please ensure code style consistency (PEP 8) and update `requirements.txt` as ne
 
 ## License
 
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+This project is licensed under the **MIT License**.
