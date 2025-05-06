@@ -33,7 +33,7 @@ A Python notebook that fetches a webpage, extracts and cleans its text content, 
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/webpage-summarizer-llama3.2.git
+   git clone https://github.com/premkumarkora/webpage-summarizer-llama3.2.git
    cd webpage-summarizer-llama3.2
    ```
 
